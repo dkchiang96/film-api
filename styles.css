@@ -1,0 +1,17 @@
+body {
+  background-color: lightblue;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+input {
+  padding: 3px;
+  font-size: 14px;
+  border-radius: 5px;
+}
+
+button {
+  padding: 5px;
+  font-size: 14px;
+  border-radius: 5px;
+  width: 100px;
+}
